@@ -16,6 +16,7 @@ st.markdown("""
     /* Sidebar ka background color */
     [data-testid="stSidebar"] {
         background-color: #f0f2f6;
+        color:black;
     }
     /* Buttons ko thoda stylish banayein */
     .stButton>button {
